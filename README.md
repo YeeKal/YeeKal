@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-个人博客： [yeekal](https://yeekal/store)
+个人博客： [yeekal](https://yeekal.store/)
 
-![yeekal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeekal&theme=gotham&show_icons=true)
+![yeekal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeekal&theme=gotham&show_icons=true&hide_border=true)
 
 <!--
 **YeeKal/YeeKal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
