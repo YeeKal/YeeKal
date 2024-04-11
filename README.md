@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm YeeKal
 
-个人博客： [Yeekal](https://yeekal.store/)
-
+个人博客： [yeekal.store](https://yeekal.store/)
 
 <picture>
   <source srcset="https://cdn.jsdelivr.net/gh/YeeKal/YeeKal/profile-3d-contrib/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)">
@@ -10,6 +9,8 @@
 </picture>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yeekal&theme=gotham&show_icons=true&hide_border=true" /> </div>
+
+<!-- https://github.com/marketplace/actions/profile-readme-development-stats -->
 
 <!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeekal&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div> -->
 <!--
@@ -25,4 +26,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ref:
+- https://github.com/tonyljx
+- https://github.com/sun0225SUN
+- https://github.com/EddieHubCommunity/awesome-github-profiles/tree/main
+- https://zhuanlan.zhihu.com/p/454597068
 -->
+
