@@ -1,6 +1,5 @@
-### Hi 👋 I'm YeeKal
-
-个人博客： [yeekal.store](https://yeekal.store/)
+<h2 align="center"> Hi 👋 I'm YeeKal </h2>
+<p align="center">个人博客： <a href="https://yeekal.store/">yeekal.store</a> </p>
 
 <picture>
   <source srcset="https://cdn.jsdelivr.net/gh/YeeKal/YeeKal/profile-3d-contrib/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)">
