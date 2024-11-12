@@ -1,6 +1,6 @@
 <h2 align="center"> Hi 👋 I'm YeeKal </h2>
-<p align="center">个人博客： <a href="https://yeekal.store/">yeekal.store</a> </p>
-<p align="center">个人项目： <a href="https://www.shuowen.space/">说文|说文解字在线查询-高清小篆字形检索</a> </p>
+<p align="center">Blog： <a href="https://yeekal.store/">yeekal.store</a> </p>
+<p align="center">Projects： <a href="https://www.shuowen.space/">说文|说文解字在线查询-高清小篆字形检索</a> <a href="https://www.spunki.games/">spunki.games</a> </p>
 
 <picture>
   <source srcset="https://cdn.jsdelivr.net/gh/YeeKal/YeeKal/profile-3d-contrib/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)">
