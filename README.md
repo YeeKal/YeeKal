@@ -2,7 +2,7 @@
 <p align="center">Blog： <a href="https://yeekal.store/">yeekal.store</a> </p>
 <p align="center">Projects： <a href="https://www.shuowen.space/">说文|说文解字在线查询-高清小篆字形检索</a> </p>
 
-<p align="center"><a href="https://www.blockblastunblocked.cc/">blockblastunblocked.cc</a> </p>
+<p align="center"><a href="https://deepseekocr.io/">/deepseekocr.io</a> </p>
 <p align="center"><a href="https://sprunkipyramixed.me/">Sprunki Pyramixed</a> </p>
 
 
