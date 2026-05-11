@@ -1,10 +1,8 @@
 <h2 align="center"> Hi 👋 I'm YeeKal </h2>
-<p align="center">Blog： <a href="https://yeekal.store/">yeekal.store</a> </p>
-<p align="center">Projects： <a href="https://www.shuowen.space/">说文|说文解字在线查询-高清小篆字形检索</a> </p>
-
+<p align="center">Blog： <a href="https://yeekal.store/">yeekal.com</a> </p>
+<p align="center">Projects： <a href="https://shuowen.space/">说文 · 见形如字|高清小篆字形检索</a> </p>
 <p align="center"><a href="https://deepseekocr.io/">/deepseekocr.io</a> </p>
-<p align="center"><a href="https://sprunkipyramixed.me/">Sprunki Pyramixed</a> </p>
-
+<p align="center"><a href="https://leaked-system-prompts.com/">leaked-system-prompts.com</a> </p>
 
 <picture>
   <source srcset="https://cdn.jsdelivr.net/gh/YeeKal/YeeKal/profile-3d-contrib/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)">
